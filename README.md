@@ -55,7 +55,7 @@ Solve questions at https://www.w3resource.com/python-exercises/numpy/python-nump
 Solve questions at https://www.w3resource.com/python-exercises/numpy/python-numpy-datetime.php
 and also https://www.w3resource.com/python-exercises/numpy/python-numpy-string.php
 
-# Kudos!!
+# 🙌 Kudos!!
 ## You did it.
 Now, you've mastered the basic important packages of Python. No need to memorise the syntax and functions. 
 Keep the cheatsheet with you and that's enough else Google is always there for our rescue. 
